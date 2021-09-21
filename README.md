@@ -13,10 +13,14 @@ Building classifier(s) on the Yeast dataset that can identify the classes `posit
 
 Three different methods have been applied on the data `One Class SVM`, `Isolation Forest`, and `Elliptic Envelope`.
 
-Data Attribute Plots (boxplot, heatmap, and correlation)
+## Data Attribute Plots (boxplot, heatmap, and correlation)
 
-| <img src="images/boxplot.png" alt="BoxPlot" style="zoom:50%;" /> |
-| ------------------------------------------------------------ |
-| <img src="images/heatmap.png" alt="Heatmap" style="zoom: 50%;" /> |
-| <img src="images/correlation.png" alt="Correlation" style="zoom:50%;" /> |
+#### Box Plot
+<img src="images/boxplot.png" alt="BoxPlot" style="zoom:50%;" />
+
+#### Heat Map
+<img src="images/heatmap.png" alt="Heatmap" style="zoom: 50%;" />
+
+#### Correlation Matrix
+<img src="images/correlation.png" alt="Correlation" style="zoom:50%;" />
 
