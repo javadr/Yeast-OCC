@@ -19,8 +19,8 @@ Three different methods have been applied on the data `One Class SVM`, `Isolatio
 <img src="images/boxplot.png" alt="BoxPlot" width="60%" />
 
 ### Heat Map
-<img src="images/heatmap.png" alt="Heatmap" width="70%" />
+<img src="images/heatmap.png" alt="Heatmap" width="60%" />
 
 ### Correlation Matrix
-<img src="images/correlation.png" alt="Correlation" width="50%" />
+<img src="images/correlation.png" alt="Correlation" width="60%" />
 
