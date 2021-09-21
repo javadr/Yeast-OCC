@@ -16,11 +16,11 @@ Three different methods have been applied on the data `One Class SVM`, `Isolatio
 ## Data Attribute Plots (boxplot, heatmap, and correlation)
 
 ### Box Plot
-<img src="images/boxplot.png" alt="BoxPlot" width="60%" />
+<img src="images/boxplot.png" alt="BoxPlot" width="70%" />
 
 ### Heat Map
-<img src="images/heatmap.png" alt="Heatmap" width="60%" />
+<img src="images/heatmap.png" alt="Heatmap" width="70%" />
 
 ### Correlation Matrix
-<img src="images/correlation.png" alt="Correlation" width="60%" />
+<img src="images/correlation.png" alt="Correlation" width="70%" />
 
