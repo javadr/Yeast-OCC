@@ -15,8 +15,8 @@ Three different methods have been applied on the data `One Class SVM`, `Isolatio
 
 Data Attribute Plots (boxplot, heatmap, and correlation)
 
-| ![BoxPlot](images/boxplot.png)         |
-| -------------------------------------- |
-| ![Heatmap](images/heatmap.png)         |
-| ![Correlation](images/correlation.png) |
+| <img src="images/boxplot.png" alt="BoxPlot" style="zoom:50%;" /> |
+| ------------------------------------------------------------ |
+| <img src="images/heatmap.png" alt="Heatmap" style="zoom: 50%;" /> |
+| <img src="images/correlation.png" alt="Correlation" style="zoom:50%;" /> |
 
